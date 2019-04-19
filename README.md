@@ -2,6 +2,7 @@
 
 ### Another tools for mounting EFI partition
 - Working for real Mac and Hackintosh
+- Working for HFS+J, APFS. NTFS
 
 ### Credits:
 - Create by ➢ [chris1111](https://github.com/chris1111/)
