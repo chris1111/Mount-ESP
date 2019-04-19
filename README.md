@@ -1,7 +1,7 @@
 # Mount ESP
 
 ### Another tools for mounting EFI partition
-- Working for real Mac nad Hackintosh
+- Working for real Mac and Hackintosh
 
 ### Credits:
 - Create by ➢ [chris1111](https://github.com/chris1111/)
